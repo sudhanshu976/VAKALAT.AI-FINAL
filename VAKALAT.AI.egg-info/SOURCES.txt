@@ -1,0 +1,5 @@
+setup.py
+VAKALAT.AI.egg-info/PKG-INFO
+VAKALAT.AI.egg-info/SOURCES.txt
+VAKALAT.AI.egg-info/dependency_links.txt
+VAKALAT.AI.egg-info/top_level.txt
